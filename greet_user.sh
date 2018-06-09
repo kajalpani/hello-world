@@ -1,5 +1,5 @@
 #!/bin/bash
-#this is just a demo file
+#This is just a demo file
 if [ -z $1 ]; then
 	echo "Please pass your name as argument to script"
 	exit 1 
